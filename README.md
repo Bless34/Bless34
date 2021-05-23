@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, Nice to Meet You 💖
 
+ I’m currently learning JavaScript, Go.
 <!--
 **Bless34/Bless34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
