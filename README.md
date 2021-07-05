@@ -1,7 +1,7 @@
 ### Hi, Nice to Meet You 💖
  * I'm a Nurse ( University Hospital, Surgical Intensive Care Unit)
  * I’m currently learning HTML, CSS(SCSS), JavaScript, ReactJS, NodeJS, Express, MongoDB.
- * I'm going to learn TypeScript, NestJS, Go(Block Chain), Python(AI).
+ * I'm going to learn TypeScript, NestJS, Go.
 <!--
 **Bless34/Bless34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
