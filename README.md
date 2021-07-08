@@ -1,5 +1,5 @@
 ### Hi, Nice to Meet You 💖
- * I'm a Nurse ( University Hospital, Surgical Intensive Care Unit)
+ * I'm a Nurse ( University Hospital, Surgical/Cardiac Intenseive Care Unit)
  * I’m currently learning HTML, CSS(SCSS), JavaScript, ReactJS, NodeJS, Express, MongoDB.
  * I'm going to learn TypeScript, NestJS, Go.
 <!--
