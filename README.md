@@ -1,5 +1,8 @@
 ### Hi, Nice to Meet You 💖
- * I'm a Nurse. ( University Hospital(Surgical/Cardiac Intenseive Care Unit), KDCA(Korea Disease Control and Prevention Agency) )
+
+ * I'm a Nurse. 
+   - University Hospital (Surgical/Cardiac Intenseive Care Unit)
+   - KDCA(Korea Disease Control and Prevention Agency) information center 
  * My hobby is Coding.
    - I’m currently learning HTML, CSS(SCSS), JavaScript, TypeScript, ReactJS, NodeJS, Express, MongoDB, Firebase.  
    - I'm going to learn  NestJS, Go.
