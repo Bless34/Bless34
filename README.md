@@ -1,8 +1,8 @@
 ### Hi, Nice to Meet You 💖
  * I'm a Nurse. ( University Hospital(Surgical/Cardiac Intenseive Care Unit), KDCA(Korea Disease Control and Prevention Agency) )
  * My hobby is Coding.
-  - I’m currently learning HTML, CSS(SCSS), JavaScript, TypeScript, ReactJS, NodeJS, Express, MongoDB, Firebase.  
-  - I'm going to learn  NestJS, Go.
+   - I’m currently learning HTML, CSS(SCSS), JavaScript, TypeScript, ReactJS, NodeJS, Express, MongoDB, Firebase.  
+   - I'm going to learn  NestJS, Go.
  
 <!--
 **Bless34/Bless34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
