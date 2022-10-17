@@ -2,7 +2,8 @@
 
  * I'm a Nurse. 
    - University Hospital (Surgical/Cardiac Intenseive Care Unit)
-   - KDCA(Korea Disease Control and Prevention Agency) information center 
+   - KDCA call center (Vaccination adverse reaction team)
+     * ( KDCA : Korea Disease Control and Prevention Agency)
  * My hobby is Coding.
    - I’m currently learning HTML, CSS(SCSS), JavaScript, TypeScript, ReactJS, NodeJS, Express, MongoDB, Firebase.  
    - I'm going to learn  NestJS, Go.
