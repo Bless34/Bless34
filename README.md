@@ -1,6 +1,9 @@
-### Hi, Nice to Meet You 💖
+>### Hi, Nice to Meet You 💖
+I'm a nurse learning coding from Korea.
 
- 
+>### Things I code with
+`HTMl` `CSS` `JavaScript` `NodeJS`
+
 <!--
 **Bless34/Bless34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
