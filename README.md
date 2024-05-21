@@ -2,7 +2,7 @@
 I'm a nurse 💉 learning coding 💻 from Korea.
 
 >### I’m currently learning 
-`HTMl` `CSS` `JavaScript` `NodeJS` `Git` `Pug` `SASS` `MongoDB` ...
+`HTMl` `CSS` `JavaScript` `NodeJS` `Git` `Pug` `SCSS` `MongoDB` ...
 
 <!--
 **Bless34/Bless34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
