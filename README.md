@@ -1,5 +1,5 @@
 >### Hi, Nice to Meet You 
-I'm a nurse 💉 learning coding 💻 from Korea.
+I'm learning coding 💻 from Korea.
 
 >### I’m currently learning 
 `HTMl` `CSS` `JavaScript` `NextJS` `Git` ...
