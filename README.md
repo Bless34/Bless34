@@ -1,5 +1,5 @@
 >### Hi, Nice to Meet You 
-I'm learning coding 💻 from Korea.
+I'm learning coding 💻.
 
 >### I’m currently learning 
 `HTMl` `CSS` `JavaScript` `NextJS` `Git` ...
